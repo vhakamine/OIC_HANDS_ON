@@ -55,3 +55,6 @@
 1. Feito isso a notificação em vermelho que aparecia como um erro em nossa integração irá sumir (caso não tenha visto o screenshot do passo 20 mostra isso):
    ![](Aspose.Words.a8a95ad0-07a9-4484-8e59-dd73e4632464.015.png)
 1. Fim
+
+
+[Clique aqui para voltar a lista de labs](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/README.md)
