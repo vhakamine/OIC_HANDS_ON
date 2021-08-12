@@ -7,9 +7,11 @@ Vamos implantar um cenário de automação de processos integrado com o DocUSign
 Labs:
 
 Provisionamento
+
 [LAB00 - Provisionar OIC](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/Lab00/Lab00_provisionarOIC_manual.md)
 
 Automação de Processo:
+
 [LAB01 - Criar Aplicativo de Processo](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/Lab01/Lab01_criar_aplicacao_processo.md)
 
 [LAB02 - Criar Atividades](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/Lab02/Lab02_criar_atividades.md)
