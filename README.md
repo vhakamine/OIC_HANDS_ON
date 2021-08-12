@@ -6,4 +6,4 @@ Vamos implantar um cenário de automação de processos integrado com o DocUSign
 
 Labs:
 
-[LAB00 - Provisionar OIC](LAB00/Lab00_provisionarOIC_manual.md  )
+[LAB00 - Provisionar OIC](OIC_HANDS_ON/lab00/Lab00_provisionarOIC_manual.md)
