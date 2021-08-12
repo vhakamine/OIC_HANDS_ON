@@ -13,9 +13,13 @@ Lab 01 – Criar e provisionar componentes;
 ![](Aspose.Words.d981bb4f-a7ab-47b9-809e-785d8a17d38f.003.png)
 ![](Aspose.Words.d981bb4f-a7ab-47b9-809e-785d8a17d38f.004.png)
 **Display Name**: Escolher um nome para o serviço. Estou utilizando o nome oiclab
+
 **Edition**: Enterprise
+
 **License Type**: Subscribe to a new Oracle Integration license
+
 **Message Packs**: 1
+
 
 4. Clique em **Create**;
 5. Aguarde a conclusão do provisionamento;
