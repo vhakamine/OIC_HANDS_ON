@@ -1,4 +1,4 @@
-﻿Lab 01 – Criar e provisionar componentes;
+#Lab 01 – Criar e provisionar componentes;
 
 1. Logar na console do OCI e acessar o opção **Integration** no menu hambúrguer dentro da categoria Developers Services:
 
