@@ -1,4 +1,4 @@
-﻿Lab – Integrar banco / assinatura de documentos digitais com docusign
+﻿Lab – Publicar e Testar
 
 1. Acesse a console do OIC;
    ![](Aspose.Words.b205c824-3c4f-46db-af07-aae7dc051846.001.png)
