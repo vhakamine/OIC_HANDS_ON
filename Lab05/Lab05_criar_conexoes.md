@@ -132,3 +132,5 @@
 1. Clicar em **Save** e aguardar a mensagem de sucesso:
    ![](Aspose.Words.e20af730-9293-4ad5-8656-a4c1491a56a0.045.png)
 1. Fim;
+
+[Clique aqui para voltar a lista de labs](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/README.md)
