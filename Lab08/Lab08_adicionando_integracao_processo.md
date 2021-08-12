@@ -64,3 +64,6 @@
 1. Clicar no botão **Close**:
    ![](Aspose.Words.ce5bddea-841a-47c5-879d-280ddf381a5e.026.png)
 1. Fim;
+
+
+[Clique aqui para voltar a lista de labs](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/README.md)
