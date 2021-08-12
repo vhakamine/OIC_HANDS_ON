@@ -1,6 +1,6 @@
-# OIC_HANDS_ON
+# HANDS ON - Automação Processos e Integração
 
-Hands on de Automação de Processos.
+Nesse Hands ON vamos implantar um cenário de Automação de Processos, integrado com DocuSign para assinatura digital de documentos.
 
 Vamos implantar um cenário de automação de processos integrado com o DocUSign.
 
