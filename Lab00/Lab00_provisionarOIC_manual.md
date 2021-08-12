@@ -4,11 +4,11 @@ Lab 01 – Criar e provisionar componentes;
 
 ![](Aspose.Words.d981bb4f-a7ab-47b9-809e-785d8a17d38f.001.png)
 
-1. Selecionar o compartimento onde provisionaremos os recursos desse laboratório:
+2. Selecionar o compartimento onde provisionaremos os recursos desse laboratório:
 
 ![](Aspose.Words.d981bb4f-a7ab-47b9-809e-785d8a17d38f.002.png)
 
-1. Clicar em **Create Integration Instance**:
+3. Clicar em **Create Integration Instance**:
 
 ![](Aspose.Words.d981bb4f-a7ab-47b9-809e-785d8a17d38f.003.png)
 ![](Aspose.Words.d981bb4f-a7ab-47b9-809e-785d8a17d38f.004.png)
@@ -17,7 +17,7 @@ Lab 01 – Criar e provisionar componentes;
 **License Type**: Subscribe to a new Oracle Integration license
 **Message Packs**: 1
 
-1. Clique em **Create**;
-1. Aguarde a conclusão do provisionamento;
+4. Clique em **Create**;
+5. Aguarde a conclusão do provisionamento;
 
-
+[Clique aqui para voltar a lista de labs](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/README.md)
