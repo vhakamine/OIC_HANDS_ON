@@ -103,3 +103,6 @@
 1. Aguardar a confirmação de sucesso:
    ![](Aspose.Words.0b0669fc-878c-4392-885d-82ed15e5626e.041.png)
 1. Fim.
+
+
+[Clique aqui para voltar a lista de labs](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/README.md)
