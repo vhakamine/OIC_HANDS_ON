@@ -14,10 +14,15 @@
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.006.png)**
 1. Agora vamos preencher os dados da nossa aplicação com as informações abaixo:
    Name: Application (Escolher o nome da sua aplicação, no material estamos usando o nome Application)
+   
    Space: [New Space] (Selecionar a opção New Space)
+   
    New Space: **[Preecher seu nome]**
+   
    Description: Aplicação de assinatura de documentos do hands on.
+   
    Open Immediately: Marcado
+   
 1. Com as informações preenchidas, o seu formulario deve estar como o da imagem abaixo:
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.007.png)
 1. Clicar no botão **Create** (Em azul\*);
@@ -27,8 +32,11 @@
 1. Vamos escolher a opção **Start from a form:![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.009.png)**
 1. Vamos preencher com as seguintes informações:
    **Name**: Aprovação e assinatura de contrato
+   
    **Description**: Processo de aprovação e assinatura de contrato.
+   
    Select a Pattern: Form (Start with a form)
+   
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.010.png)
 1. Clicar em **Create**;
 1. Agora que nosso processo foi criado com sucesso, vamos criar e associar um formulário ao início do nosso processo;
@@ -36,7 +44,9 @@
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.011.png)
 1. Agora vamos preencher com as seguintes informações (utilizar os mesmos valores do exemplo abaixo):
    **Title**: Aprovação e Assinatura de contrato
+   
    **Description:** Processo de aprovação de contratos, uma vez que o contrato esteja aprovado o mesmo é enviado para assinatura digital.
+   
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.012.png)
 1. Clicar no botão **+** para criar um novo formulário e associá-lo ao nosso processo;
 1. Preencher conforme a imagem abaixo:
@@ -49,22 +59,36 @@
 1. Utilize o scroll nas **Properties** e vamos mudar as propriedades **Name** e **Label** com os valores iguais da imagem abaixo:
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.016.png)
 1. Agora vamos arrastar um **Input Text** para colocar o nome do fornecedor, da mesma forma que configuramos o Select vamos mudar o **Name** e **Label** para os valores:
+   
    **Name**: fornecedor
+   
    **Label**: Nome do Fornecedor
+   
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.017.png)
 1. Adicionar um Objeto do tipo **Money**, para definir o valor do contrato, configurar as Properties com os seguintes valores:
+   
    **Name**: valor
+   
    **Label**: Valor do Contrato
+   
    **Currency**: Brazilian Real (BRL)
+   
    **Min**: 0
+   
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.018.png)
 1. Agora vamos colocar um objeto do tipo **Text** para um breve resumo do que se trata o contrato, preencher as **Properties**, com os valores abaixo:
+   
    **Name**: descricao
+   
    **Label**: Descrição do contrato
+   
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.019.png)
 1. E agora, por último, vamos incluir um campo para colocar a justificativa de porque devemos assinar esse contrato. Vamos utilizar novamente um objeto do tipo **Text** com **Name** e **Label** com os valores abaixo:
+   
    **Name**: justificativa
+   
    **Label**: Justificativa
+   
 1. Agora que terminamos o formulário vamos clicar no botão **Save**.
 1. Podemos utilizar o botão **Preview** para ver como o nosso formulário sera visualizado em um dispositvo smartphone, tablet, laptop, etc;
 1. Clicar no botão de fechar na aba do nosso formulário (ContratoFormulario):
