@@ -47,3 +47,6 @@
    ![](Aspose.Words.b205c824-3c4f-46db-af07-aae7dc051846.019.png)
 1. Vamos fazer os mesmo passos com a Role: **Application.Juridico**
 1. Testar em processo publicado;
+
+
+[Clique aqui para voltar a lista de labs](https://github.com/vhakamine/OIC_HANDS_ON/blob/main/README.md)
