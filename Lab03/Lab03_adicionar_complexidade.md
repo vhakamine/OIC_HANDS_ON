@@ -1,4 +1,4 @@
-﻿Lab 05 – Utilizar gates e human taks;
+﻿Lab 05 – Adicionar complexidade utilizando gates e human taks;
 
 1. Acesse o nosso processo:
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.001.png)
