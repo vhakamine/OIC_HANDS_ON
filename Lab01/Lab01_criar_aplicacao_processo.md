@@ -43,6 +43,7 @@
 1. Clicar no objeto **Start**,** em seguida clicar no ícone de menu que apareceu ao lado direito do objeto, em seguida clicar na opção **Open Properties**:
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.011.png)
 1. Agora vamos preencher com as seguintes informações (utilizar os mesmos valores do exemplo abaixo):
+   
    **Title**: Aprovação e Assinatura de contrato
    
    **Description:** Processo de aprovação de contratos, uma vez que o contrato esteja aprovado o mesmo é enviado para assinatura digital.
