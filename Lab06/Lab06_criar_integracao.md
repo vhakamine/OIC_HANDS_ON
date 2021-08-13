@@ -1,4 +1,4 @@
-﻿Lab06 - Criar Integração
+﻿Lab - Criar Integração
 
 1. Logar no OIC acessar o menu hamburger e clicar na opção **Integration**:
 
