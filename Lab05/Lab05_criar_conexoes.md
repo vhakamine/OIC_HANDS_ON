@@ -1,4 +1,4 @@
-﻿Lab 02 – Criar conta no DocuSign e conexões no OIC;
+﻿Lab – Criar conta no DocuSign e conexões no OIC;
 
 1. Acessar o link: <https://developers.docusign.com/>
 1. Clique em **Create Account**:
