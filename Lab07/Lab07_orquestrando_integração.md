@@ -1,4 +1,4 @@
-﻿Lab07 – Orquestrando adicionando mais inteligencia a integração:
+﻿Lab – Orquestrando adicionando mais inteligencia a integração:
 
 1. Agora vamos configurar nossa integração para fazer chamada para a API que irá pegar o contrato baseado no nome do documento (utilizaremos o valor **contrato.pdf**) e também do numero do processo;
 1. Clicar no ícone **Invokes** em seguida em **REST**:![](Aspose.Words.0b0669fc-878c-4392-885d-82ed15e5626e.001.png)
