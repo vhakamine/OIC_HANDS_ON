@@ -58,6 +58,7 @@
 1. Marcar a opção **In Draft**: 
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.022.png)
 1. Clicar no objeto **Gateway** em seguida no ícone **seta** para ligar o Gateway com o objeto **Integration**:
+
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.023.png)
 1. Renomear a seta para **Aprovado**;
 
