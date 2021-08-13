@@ -27,6 +27,7 @@
 1. Clicar no ícone da **Lupa**, em Form, e selecionar o **Formulario** que já estavamos utilizando **(ContratoFormulario)**. Clicar em **Ok**:
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.013.png)
 1. Em Action renomear para **Resubmiter**:
+
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.014.png)
 1. Preencher o **Title** para: Revisar e seguir as orientações do Juridico;
 1. Preencher o **Task Summary** para: Revisar os comentários do Juridico e prover as respostas solicitadas.
