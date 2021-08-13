@@ -1,4 +1,4 @@
-﻿Lab 04 – Criar e associar atividades no processo;
+﻿Lab – Criar e associar atividades no processo;
 
 1. Em Processes, acesse a funcionalidade **Process Applications**:
    ![](Aspose.Words.2b69f4e8-d131-4524-b9f4-e07d5f2f1f9d.001.png)
