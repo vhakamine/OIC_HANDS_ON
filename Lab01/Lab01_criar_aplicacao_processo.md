@@ -1,4 +1,4 @@
-﻿Lab 03 – Criar Aplicação de Processos no OIC;
+﻿Lab – Criar Aplicação de Processos no OIC;
 
 1. Acessar a home do OIC:
    ![](Aspose.Words.02d5cd52-d5bc-4222-be87-e3d616278ef2.001.png)
