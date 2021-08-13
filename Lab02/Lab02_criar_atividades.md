@@ -30,11 +30,17 @@
 1. Em **Action,** vamos renomear as ações de **APPROVE,REJECT** para **Aprovar,Rejeitar**:
    ![](Aspose.Words.2b69f4e8-d131-4524-b9f4-e07d5f2f1f9d.014.png)
 1. Agora vamos customizar o Title, Task Summary, Due Date, Priority, Skip Approval On:
-   **Title**: Titulo da Atividade de aprovação, estou utilizando: **"Validar contrato com o Forcenedor: " + ContratoFormulario.fornecedor + " no valor de " + ContratoFormulario.valor**, no qual o **nome do fornecedor** e **valor** estamos pegando o valor dinamicamente do formulário;
+
+   **Title**: Titulo da Atividade de aprovação, estou utilizando, no qual o **nome do fornecedor** e **valor** estamos pegando o valor dinamicamente do formulário: **"Validar contrato com o Forcenedor: " + ContratoFormulario.fornecedor + " no valor de " + ContratoFormulario.valor**
+
    **Task Summary**: Resumo da atividade, normalmente é descrito o que deve ser executado nessa atividade, estou usando o valor: Verificar clausulas e legalidade do contrato;
+   
    **Due Date**: Tempo de SLA para conclusão da aprovação, estou usando o valor de 7 dias corridos: 0M7d0h0m;
+   
    **Priority**: Prioridade da atividade, neste caso estou utilizando Normal;
+   
    **Skip Approval On**: Utilizado quando temos diversos aprovadores para a mesma atividade modelo serial ou paralelo, por exemplo se é negado por um aprovador os outros não precisam avaliar por já está reprovado! Estou utilizando como desmarcado
+   
    ![](Aspose.Words.2b69f4e8-d131-4524-b9f4-e07d5f2f1f9d.015.png)
 1. Usar o ícone de seta para baixo para ocutar as **Properties** do **User Task,** clicar duas vezes no User Task para renomear a atividade para **Aprovação Departamento Juridico**:
    ![](Aspose.Words.2b69f4e8-d131-4524-b9f4-e07d5f2f1f9d.016.png)
