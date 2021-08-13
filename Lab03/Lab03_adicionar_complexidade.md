@@ -51,6 +51,7 @@
 1. Ao final nossa configuração, esta deve estar similar a da imagem abaixo:
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.019.png)
 1. Vamos configurar um objeto **Integration** para implantarmos nos próximos labs, arrastar ele da paleta para o fluxo:
+
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.020.png)
 1. Clicar no objeto **Integration** e, em seguida, clicar no ícone menu e em **Open Properties**:
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.021.png)
