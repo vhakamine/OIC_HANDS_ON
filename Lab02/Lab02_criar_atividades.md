@@ -31,7 +31,7 @@
    ![](Aspose.Words.2b69f4e8-d131-4524-b9f4-e07d5f2f1f9d.014.png)
 1. Agora vamos customizar o Title, Task Summary, Due Date, Priority, Skip Approval On:
 
-   **Title**: Titulo da Atividade de aprovação, estou utilizando, no qual o **nome do fornecedor** e **valor** estamos pegando o valor dinamicamente do formulário: **"Validar contrato com o Forcenedor: " + ContratoFormulario.fornecedor + " no valor de " + ContratoFormulario.valor**
+   **Title**: Titulo da Atividade de aprovação, estou utilizando: **"Validar contrato com o Forcenedor: " + ContratoFormulario.fornecedor + " no valor de " + ContratoFormulario.valor** , no qual o **nome do fornecedor** e **valor** estamos pegando o valor dinamicamente do formulário
 
    **Task Summary**: Resumo da atividade, normalmente é descrito o que deve ser executado nessa atividade, estou usando o valor: Verificar clausulas e legalidade do contrato;
    
