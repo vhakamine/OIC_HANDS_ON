@@ -15,6 +15,7 @@
 1. Agora vamos renomear para **Ajustar** e **Resubmiter**:
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.006.png)
 1. Agora vamos clicar no **Exclusive Gateway** e em seguida clicar no ícone de seta para ligar **Exclusive Gateway** com o **Ajustar e Resubmiter** quando a resposta do **Juridico** for **Revisar**:
+
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.008.png)
 1. Arrastar a seta até o objeto **Ajustar e Resubmiter**:
    ![](Aspose.Words.dd695b8e-1241-4c90-93ad-ba982d70850b.009.png)
